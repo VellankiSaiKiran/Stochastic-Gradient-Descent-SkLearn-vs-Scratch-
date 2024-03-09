@@ -5,6 +5,7 @@ This project explores the implementation and performance of the Stochastic Gradi
 ## Overview
 
 Stochastic Gradient Descent is a fundamental optimization algorithm used in machine learning to minimize a function by iteratively moving towards the minimum value of the gradient. This project focuses on comparing two approaches to SGD:
+
 - **SKLearn Implementation**: Utilizing the SGD functionalities provided by the Scikit-Learn library.
 - **Custom Implementation**: Developing an SGD algorithm from scratch to understand the underlying mechanics and to customize its behavior.
 
